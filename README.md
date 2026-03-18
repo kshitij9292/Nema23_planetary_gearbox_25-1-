@@ -1,4 +1,5 @@
 High-Torque NEMA 23 Planetary Gearbox (25:1)
+<img width="910" height="701" alt="image" src="https://github.com/user-attachments/assets/abc3bf47-087d-4671-a2e2-e5054ff3c227" />
 
 A high-precision, 3D-printable 25:1 planetary gearbox designed for NEMA 23 stepper motors. This project features a dual-stage reduction and an integrated custom ball-race bearing system to handle high axial loads—ideal for high-resolution tracking applications like the Printonian Telescope or robotic actuators.
 🛠 Project Overview
